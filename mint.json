@@ -61,6 +61,7 @@
       "group": "Documentation",
       "pages": [
         "docs/introduction",
+        "docs/Log/readme",
         "quickstart",
         "development"
       ]
