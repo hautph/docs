@@ -58,6 +58,14 @@
       ]
     },
     {
+      "group": "Documentation",
+      "pages": [
+        "docs/introduction",
+        "quickstart",
+        "development"
+      ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",

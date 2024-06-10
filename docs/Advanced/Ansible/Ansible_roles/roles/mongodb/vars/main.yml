@@ -1,0 +1,9 @@
+mongodb_name: "hoangml_db"
+mongodb_user: "hoangml"
+mongodb_password: "123456"
+
+mongodb_port: "27017"
+
+admindb_name: "admin"
+admin_login: "admin"
+admin_password: "admin123456"
