@@ -55,19 +55,19 @@
   "navigation": [
       {
           "group": "Get Started",
-          "pages": [
-              "introduction",
-              "quickstart",
-              "development"
-          ]
+          "pages": ["introduction", "quickstart", "development"]
       },
-
       {
         "group": "English",
         "pages": [
-          "english/introduction"
+            "english/tra-su-cajuput-forest-southern-vietnams-eco-tourism-gem",
+            "english/the-mosaic-of-ho-chi-minh-city-exploring-culture-cuisine-and-history"
         ]
-      }
+        },
+        {
+            "group": "Vietnamese",
+            "pages": ["vietnamese"]
+        }
   ],
   "footerSocials": {
       "x": "https://x.com/hautph",
