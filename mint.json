@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Cloud Tada",
+  "name": "Phong Tục Việt Nam",
   "logo": {
       "dark": "/logo/dark.svg",
       "light": "/logo/light.svg"
@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
       "name": "Home",
-      "url": "https://docs.cloudtada.com/"
+      "url": "https://phongtuc.vn/"
   },
   "tabs": [
       {
@@ -39,17 +39,17 @@
       {
           "name": "Documentation",
           "icon": "book-open-cover",
-          "url": "https://docs.cloudtada.com/"
+          "url": "https://phongtuc.vn/"
       },
       {
           "name": "Community",
           "icon": "slack",
-          "url": "https://docs.cloudtada.com/"
+          "url": "https://phongtuc.vn/"
       },
       {
           "name": "Blog",
           "icon": "newspaper",
-          "url": "https://docs.cloudtada.com/"
+          "url": "https://phongtuc.vn"
       }
   ],
   "navigation": [
