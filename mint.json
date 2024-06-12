@@ -15,6 +15,12 @@
           "to": "#07C983"
       }
   },
+
+  "analytics": {
+    "ga4": {
+        "measurementId": "G-SBV2G9WRGP"
+    }
+},
   "topbarLinks": [
       {
           "name": "Support",
