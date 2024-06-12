@@ -39,18 +39,22 @@
       {
           "name": "English",
           "url": "english"
+      },
+      {
+        "name": "Thế Giới",
+        "url": "world"
       }
   ],
   "anchors": [
       {
-          "name": "Documentation",
-          "icon": "book-open-cover",
+          "name": "Trang Chủ",
+          "icon": "house",
           "url": "https://phongtuc.vn/"
       },
       {
-          "name": "Community",
-          "icon": "slack",
-          "url": "https://phongtuc.vn/"
+          "name": "Âm Lịch",
+          "icon": "calendar",
+          "url": "https://www.phongtuc.vn/"
       },
       {
           "name": "Blog",
