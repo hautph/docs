@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Phong Tục Việt Nam",
   "logo": {
-      "dark": "/logo/dark.svg",
-      "light": "/logo/light.svg"
+      "dark": "/logo/vn.svg",
+      "light": "/logo/vn.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/vn.svg",
   "colors": {
       "primary": "#0D9373",
       "light": "#07C983",
@@ -65,7 +65,7 @@
   "navigation": [
       {
           "group": "Get Started",
-          "pages": ["introduction", "quickstart", "development"]
+          "pages": ["introduction", "quickstart"]
       },
       {
         "group": "English",
