@@ -66,8 +66,10 @@
         },
         {
             "group": "Vietnamese",
-            "pages": ["vietnamese/ba-ngoi-chua-co-600-tuoi-tren-vach-nui",
-                      "vietnamese/48-gio-o-sapa"            
+            "pages": [
+                "vietnamese/48-gio-o-sapa",
+                "vietnamese/ba-ngoi-chua-co-600-tuoi-tren-vach-nui",
+                "vietnamese/ngam-nha-trang-quy-nhon-tren-tau-hoa-xa-xi-10-trieu-dong-ve"            
         ]
         }
   ],
