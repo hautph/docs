@@ -5,7 +5,7 @@
       "dark": "/logo/vn.svg",
       "light": "/logo/vn.svg"
   },
-  "favicon": "/vn.svg",
+  "favicon": "/logo/vn.svg",
   "colors": {
       "primary": "#0D9373",
       "light": "#07C983",
