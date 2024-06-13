@@ -21,16 +21,19 @@
         "measurementId": "G-SBV2G9WRGP"
     }
 },
+
   "topbarLinks": [
       {
           "name": "Support",
           "url": "mailto:hi@cloudtada.com"
       }
   ],
+
   "topbarCtaButton": {
       "name": "Home",
       "url": "https://phongtuc.vn/"
   },
+
   "tabs": [
       {
           "name": "Vietnamese",
@@ -45,6 +48,7 @@
         "url": "world"
       }
   ],
+
   "anchors": [
       {
           "name": "Trang Chủ",
@@ -62,27 +66,64 @@
           "url": "https://phongtuc.vn"
       }
   ],
-  "navigation": [
-      {
-          "group": "Get Started",
-          "pages": ["introduction", "quickstart"]
-      },
-      {
+
+"navigation": [
+    {
+        "group": "Việt Nam",
+        "pages": [
+           "vietnamese/introduction",
+            {
+                "group": "Du Lịch",
+                "pages": [
+                    "vietnamese/du-lich/48-gio-o-sapa",
+                    "vietnamese/du-lich/ba-ngoi-chua-co-600-tuoi-tren-vach-nui",
+                    "vietnamese/du-lich/ngam-nha-trang-quy-nhon-tren-tau-hoa-xa-xi-10-trieu-dong-ve"
+            ]
+            },
+            {
+                "group": "Ẩm Thực",
+                "pages": ["vietnamese/am-thuc/ba-mon-viet-vao-top-100-mon-duong-pho-ngon-nhat-the-gioi"]
+            }
+        ]
+    },
+
+    {
         "group": "English",
         "pages": [
-            "english/guide/tra-su-cajuput-forest-southern-vietnams-eco-tourism-gem",
-            "english/guide/the-mosaic-of-ho-chi-minh-city-exploring-culture-cuisine-and-history"
+            "english/introduction",
+            {
+                "group": "Guide",
+                "pages": [
+                    "english/guide/the-mosaic-of-ho-chi-minh-city-exploring-culture-cuisine-and-history",
+                    "english/guide/tra-su-cajuput-forest-southern-vietnams-eco-tourism-gem"
+            ]
+            },
+            {
+                "group": "Foods",
+                "pages": ["english/food/hcmc-beats-bangkok-as-world-s-fourth-best-foodie-city"]
+            }
         ]
-        },
-        {
-            "group": "Vietnamese",
-            "pages": [
-                "vietnamese/48-gio-o-sapa",
-                "vietnamese/ba-ngoi-chua-co-600-tuoi-tren-vach-nui",
-                "vietnamese/ngam-nha-trang-quy-nhon-tren-tau-hoa-xa-xi-10-trieu-dong-ve"            
+    },
+    
+    {
+        "group": "Thế Giới",
+        "pages": [
+            "world/introduction",
+            {
+                "group": "Du Lịch",
+                "pages": [
+                    "world/du-lich/nha-tu-nho-nhat-the-gioi-dung-de-giam-khach-du-lich"
+            ]
+            },
+            {
+                "group": "Ẩm Thực",
+                "pages": [
+                    "world/am-thuc/ca-phe-hanh-la-thuc-uong-moi-noi-tai-trung-quoc"
+                ]
+            }
         ]
-        }
-  ],
+    }
+],
   "footerSocials": {
       "x": "https://x.com/hautph",
       "github": "https://github.com/hautph/docs",
