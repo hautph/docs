@@ -73,8 +73,10 @@
         "pages": [
            "vietnamese/introduction",
             {
-                "group": "Du Lịch",
+                "group": "Cẩm Nang Du Lịch",
                 "pages": [
+                    "vietnamese/du-lich/cam-nang-du-lich-ha-giang",
+                    "vietnamese/du-lich/cam-nang-du-lich-dong-van",
                     "vietnamese/du-lich/ba-ngoi-chua-co-600-tuoi-tren-vach-nui",
                     "vietnamese/du-lich/ngam-nha-trang-quy-nhon-tren-tau-hoa-xa-xi-10-trieu-dong-ve"
             ]
@@ -82,6 +84,8 @@
             {
                 "group": "Trải nghiệm 48 giờ khắp Việt Nam",
                 "pages": [
+                    "vietnamese/du-lich/48-gio-o-ha-giang",
+                    "vietnamese/du-lich/48-gio-o-dong-van",
                     "vietnamese/du-lich/48-gio-o-tp-hcm",
                     "vietnamese/du-lich/48-gio-o-nghe-an",
                     "vietnamese/du-lich/48-gio-o-sapa"
