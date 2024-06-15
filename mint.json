@@ -36,16 +36,16 @@
 
   "tabs": [
       {
-          "name": "Vietnamese",
+          "name": "Tiếng Việt",
           "url": "vietnamese"
+      },
+      {
+        "name": "Vòng Quanh Thế Giới",
+        "url": "world"
       },
       {
           "name": "English",
           "url": "english"
-      },
-      {
-        "name": "Thế Giới",
-        "url": "world"
       }
   ],
 
@@ -75,14 +75,14 @@
             {
                 "group": "Cẩm Nang Du Lịch",
                 "pages": [
+                    "vietnamese/du-lich/cam-nang-du-lich-phu-yen",
+                    "vietnamese/du-lich/cam-nang-du-lich-da-lat",
                     "vietnamese/du-lich/cam-nang-du-lich-ha-giang",
-                    "vietnamese/du-lich/cam-nang-du-lich-dong-van",
-                    "vietnamese/du-lich/ba-ngoi-chua-co-600-tuoi-tren-vach-nui",
-                    "vietnamese/du-lich/ngam-nha-trang-quy-nhon-tren-tau-hoa-xa-xi-10-trieu-dong-ve"
+                    "vietnamese/du-lich/cam-nang-du-lich-dong-van"
             ]
             },
             {
-                "group": "Trải nghiệm 48 giờ khắp Việt Nam",
+                "group": "Du lịch 48 giờ",
                 "pages": [
                     "vietnamese/du-lich/48-gio-o-ha-giang",
                     "vietnamese/du-lich/48-gio-o-dong-van",
@@ -90,6 +90,23 @@
                     "vietnamese/du-lich/48-gio-o-nghe-an",
                     "vietnamese/du-lich/48-gio-o-sapa"
                 ]
+            },
+            {
+                "group": "Tin Tức Du Lịch",
+                "pages": [
+                    "vietnamese/du-lich/cam-trai-ngam-bien-may-tren-doi-vo-uu",
+                    "vietnamese/du-lich/ba-ngoi-chua-co-600-tuoi-tren-vach-nui",
+                    "vietnamese/du-lich/ngam-nha-trang-quy-nhon-tren-tau-hoa-xa-xi-10-trieu-dong-ve",
+                    "vietnamese/du-lich/bao-tang-co-vat-trieu-nguyen-tren-pho-di-bo-nguyen-hue"
+            ]
+            },
+            {
+                "group": "Phong Tục Tập Quán",
+                "pages": ["vietnamese/phong-tuc/phong-tuc-tap-quan-cac-dan-toc-tinh-son-la"]
+            },
+            {
+                "group": "Văn Hóa - Lễ Hội",
+                "pages": ["vietnamese/van-hoa-le-hoi/van-hoa-le-hoi-thuan-chau-son-la"]
             },
             {
                 "group": "Ẩm Thực",

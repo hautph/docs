@@ -1,4 +1,11 @@
 ---
+title:
+sidebarTitle: "Short title"
+description: ''
+'og:image': ''
+---
+
+---
 title: 
 description: ''
 ---
@@ -75,3 +82,27 @@ title: "Page Title"
 sidebarTitle: "Sidebar title (optional - if different from page title)"
 description: "Subtitle (optional)"
 ---
+
+Sau khi view source ( nhần F12 ), sẽ thấy được  contentUrl là https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,,/2020/05/05/nu-mc-nguoi-nga-phap-hoc-tieng-viet-vi-thich-son-tung-m-tp-1588651271/vne/master.m3u8
+
+Nhưng đường dẫn trực tiếp để download clip lại là:
+
+ Đổi: d1.vnecdn.net thành v.vnecdn.net.
+
+ Xoá bỏ video/video/ thành video/ 
+
+ Đổi vne/master.m3u8 thành .mp4 
+
+ Xoá bỏ: ,240p,360p,480p,,
+
+Kết quả là:
+
+
+https://v.vnecdn.net/dulich/video/web/mp4/2020/09/03/ganh-da-dia-tren-can-1599126081.mp4
+
+
+<video
+  controls
+  className="w-full aspect-video"
+  src="https://v.vnecdn.net/dulich/video/web/mp4/2020/09/03/ganh-da-dia-tren-can-1599126081.mp4"
+></video>
