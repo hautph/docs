@@ -82,7 +82,6 @@
                     "vietnamese/du-lich/cam-nang/du-lich-phu-yen",
                     "vietnamese/du-lich/cam-nang/du-lich-quang-binh",
                     "vietnamese/du-lich/cam-nang/du-lich-quy-nhon"
-
             ]
             },
             {
@@ -114,6 +113,13 @@
             {
                 "group": "Văn Hóa - Lễ Hội",
                 "pages": ["vietnamese/van-hoa-le-hoi/van-hoa-le-hoi-thuan-chau-son-la"]
+            },
+            {
+                "group": "Cung Hoàn Đạo",
+                "pages": [
+                    "vietnamese/cung-hoan-dao/12-cung-hoan-dao-2024",
+                    "vietnamese/cung-hoan-dao/12-cung-hoan-dao-17-23-06-2024"
+                ]
             },
             {
                 "group": "Ẩm Thực",
