@@ -75,31 +75,36 @@
             {
                 "group": "Cẩm Nang Du Lịch",
                 "pages": [
-                    "vietnamese/du-lich/cam-nang-du-lich-quang-binh",
-                    "vietnamese/du-lich/cam-nang-du-lich-quy-nhon",
-                    "vietnamese/du-lich/cam-nang-du-lich-phu-yen",
-                    "vietnamese/du-lich/cam-nang-du-lich-da-lat",
-                    "vietnamese/du-lich/cam-nang-du-lich-ha-giang",
-                    "vietnamese/du-lich/cam-nang-du-lich-dong-van"
+                    "vietnamese/du-lich/cam-nang/cam-nang-du-lich",
+                    "vietnamese/du-lich/cam-nang/du-lich-da-lat",
+                    "vietnamese/du-lich/cam-nang/du-lich-ha-giang",
+                    "vietnamese/du-lich/cam-nang/du-lich-ha-giang-dong-van",
+                    "vietnamese/du-lich/cam-nang/du-lich-phu-yen",
+                    "vietnamese/du-lich/cam-nang/du-lich-quang-binh",
+                    "vietnamese/du-lich/cam-nang/du-lich-quy-nhon"
+
             ]
             },
             {
                 "group": "Du lịch 48 giờ",
                 "pages": [
-                    "vietnamese/du-lich/48-gio-o-ha-giang",
-                    "vietnamese/du-lich/48-gio-o-dong-van",
-                    "vietnamese/du-lich/48-gio-o-tp-hcm",
-                    "vietnamese/du-lich/48-gio-o-nghe-an",
-                    "vietnamese/du-lich/48-gio-o-sapa"
+                    "vietnamese/du-lich/48h/48-gio-du-lich",
+                    "vietnamese/du-lich/48h/48-gio-o-ha-giang",
+                    "vietnamese/du-lich/48h/48-gio-o-ha-giang-dong-van",
+                    "vietnamese/du-lich/48h/48-gio-o-lao-cai-sapa",
+                    "vietnamese/du-lich/48h/48-gio-o-nghe-an",
+                    "vietnamese/du-lich/48h/48-gio-o-quang-nam-hoi-an",
+                    "vietnamese/du-lich/48h/48-gio-o-tp-hcm"
+
                 ]
             },
             {
                 "group": "Tin Tức Du Lịch",
                 "pages": [
-                    "vietnamese/du-lich/cam-trai-ngam-bien-may-tren-doi-vo-uu",
-                    "vietnamese/du-lich/ba-ngoi-chua-co-600-tuoi-tren-vach-nui",
-                    "vietnamese/du-lich/ngam-nha-trang-quy-nhon-tren-tau-hoa-xa-xi-10-trieu-dong-ve",
-                    "vietnamese/du-lich/bao-tang-co-vat-trieu-nguyen-tren-pho-di-bo-nguyen-hue"
+                    "vietnamese/du-lich/news/cam-trai-ngam-bien-may-tren-doi-vo-uu",
+                    "vietnamese/du-lich/news/ba-ngoi-chua-co-600-tuoi-tren-vach-nui",
+                    "vietnamese/du-lich/news/ngam-nha-trang-quy-nhon-tren-tau-hoa-xa-xi-10-trieu-dong-ve",
+                    "vietnamese/du-lich/news/bao-tang-co-vat-trieu-nguyen-tren-pho-di-bo-nguyen-hue"
             ]
             },
             {
