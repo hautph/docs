@@ -115,10 +115,16 @@
                 "pages": ["vietnamese/van-hoa-le-hoi/van-hoa-le-hoi-thuan-chau-son-la"]
             },
             {
-                "group": "Cung Hoàn Đạo",
+                "group": "Cung Hoàng Đạo",
                 "pages": [
-                    "vietnamese/cung-hoan-dao/12-cung-hoan-dao-2024",
-                    "vietnamese/cung-hoan-dao/12-cung-hoan-dao-17-23-06-2024"
+                    "vietnamese/cung-hoan-dao/12-cung-hoang-dao-2024",
+                    "vietnamese/cung-hoan-dao/12-cung-hoang-dao-17-23-06-2024"
+                ]
+            },
+            {
+                "group": "Tử Vi",
+                "pages": [
+                    "vietnamese/tu-vi/12-con-giap-2024"
                 ]
             },
             {
