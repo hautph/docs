@@ -22,6 +22,10 @@
     }
 },
 
+"feedback": {
+  "thumbsRating": true
+},
+
   "topbarLinks": [
       {
           "name": "Support",
@@ -127,7 +131,16 @@
                     "vietnamese/tu-vi/12-con-giap-2024",
                     "vietnamese/tu-vi/tu-vi-tuoi-ty-2024",
                     "vietnamese/tu-vi/tu-vi-tuoi-suu-2024",
-                    "vietnamese/tu-vi/tu-vi-tuoi-dan-2024"
+                    "vietnamese/tu-vi/tu-vi-tuoi-dan-2024",
+                    "vietnamese/tu-vi/tu-vi-tuoi-mao-2024",
+                    "vietnamese/tu-vi/tu-vi-tuoi-thin-2024",
+                    "vietnamese/tu-vi/tu-vi-tuoi-ty2-2024",
+                    "vietnamese/tu-vi/tu-vi-tuoi-ngo-2024",
+                    "vietnamese/tu-vi/tu-vi-tuoi-mui-2024",
+                    "vietnamese/tu-vi/tu-vi-tuoi-than-2024",
+                    "vietnamese/tu-vi/tu-vi-tuoi-dau-2024",
+                    "vietnamese/tu-vi/tu-vi-tuoi-tuat-2024",
+                    "vietnamese/tu-vi/tu-vi-tuoi-hoi-2024"
                 ]
             },
             {
