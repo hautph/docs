@@ -162,11 +162,14 @@
                 ]
             },
             {
-                "group": "Ẩm Thực",
-                "pages": ["vietnamese/am-thuc/ba-mon-viet-vao-top-100-mon-duong-pho-ngon-nhat-the-gioi"]
+                "group": "Ẩm Thực Việt Nam",
+                "pages": [
+                    "vietnamese/am-thuc/nhung-mon-an-khong-nen-bo-qua-khi-den-da-nang",
+                    "vietnamese/am-thuc/ba-mon-viet-vao-top-100-mon-duong-pho-ngon-nhat-the-gioi"
+            ]
             },
             {    
-                "group": "Trắc Nghiệm",
+                "group": "Trắc Nghiệm Kiến Thức",
                 "pages": [
                     "vietnamese/trac-nghiem/ba-chua-tho-nom-ten-that-la-gi",
                     "vietnamese/trac-nghiem/tinh-nao-la-que-huong-cua-nha-ly",
