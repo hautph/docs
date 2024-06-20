@@ -109,6 +109,7 @@
             {
                 "group": "Tin Tức Du Lịch",
                 "pages": [
+                    "vietnamese/du-lich/news/lang-mo-hoang-thai-hau-tu-du-sau-trung-tu",
                     "vietnamese/du-lich/news/xem-rua-de-trung-o-con-dao",
                     "vietnamese/du-lich/news/cam-trai-ngam-bien-may-tren-doi-vo-uu",
                     "vietnamese/du-lich/news/ba-ngoi-chua-co-600-tuoi-tren-vach-nui",
@@ -164,6 +165,7 @@
             {
                 "group": "Ẩm Thực Việt Nam",
                 "pages": [
+                    "vietnamese/am-thuc/banh-mi-viet-nam",
                     "vietnamese/am-thuc/nhung-mon-an-khong-nen-bo-qua-khi-den-da-nang",
                     "vietnamese/am-thuc/ba-mon-viet-vao-top-100-mon-duong-pho-ngon-nhat-the-gioi"
             ]
